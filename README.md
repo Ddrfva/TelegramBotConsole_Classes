@@ -32,7 +32,7 @@
 ## 📸 Демонстрация работы
 | Добавление задач и просмотр активных | Просмотр всех задач и справка |
 | --- | --- |
-| ![Часть 1](screenshots/screenshot1.png) | ![Часть 2](screenshots/screenshot2.png) |
+| ![Часть 1](screenshots/screenshot1.jpg) | ![Часть 2](screenshots/screenshot2.jpg) |
 
 ## ✅ Критерии выполнения
 - Класс ToDoUser (конструктор, свойства)
