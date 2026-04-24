@@ -1,0 +1,19 @@
+# Временные файлы Visual Studio
+bin/
+obj/
+.vs/
+*.user
+*.suo
+*.userosscache
+
+# Результаты компиляции
+*.exe
+*.dll
+*.pdb
+
+# Логи
+*.log
+
+# Временные файлы
+*.tmp
+*.temp
